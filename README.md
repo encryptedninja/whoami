@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I am a Cyber Security student, currently prepping for the eJPT exam which after I'll study for the OSCP.</p>
+<p><code<whoami</code> I am a Cyber Security student, currently prepping for the eJPT exam which after I'll study for the OSCP.</p>
 
 <p>Here on my profile I am sharing some walk-throughs of HackTheBox, TryHackme, Vulnhub, Overthewire and other plattforms I find interesting to help myself creating reports, deepen the techniques I learned, and also to help you if you got stuck on some room or exercise.</p>
 
-<p>From the moment of starting out in Cyber Security I am focused on Penetration testing, Red Teaming and my profile, tools and methodology I use will reflect that. So stick around if you're on the same path as I post regularly! Feel free to ping me to keep in touch!</p>
+On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide!
+
+<img src="https://github.com/codetorok/walkthroughs/blob/master/images/thm_top50_hungary_top1percent_28062021.png" width=50% height=auto>
+
+<p>From the moment of starting out in Cyber Security I am focused on Penetration testing, Red Teaming so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me to keep in touch!</p>
 
 <p>Here are some things about me:</p>
 
