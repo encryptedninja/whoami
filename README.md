@@ -23,12 +23,12 @@ On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide
 
 <img src="https://github.com/codetorok/walkthroughs/blob/master/images/thm_top50_hungary_top1percent_28062021.png">
 
-<p>From the moment of starting out in Cyber Security I am focused on Penetration testing, Red Teaming so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me to keep in touch!</p>
+<p>From the moment I started out in Cyber Security I was focused on Penetration testing, Red Teaming; so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me if you wan't to keep in touch!</p>
 
 <p>Here are some things about me:</p>
 
-- 🔭 I’m currently working on: eJPT exam
-- 🌱 I’m currently learning on: INE.com, TryHackme 1%, HackTheBox, TCM-SEC: Practical Ethical Hacker Course, TCM-SEC: Win/Linux privesc courses.
+- 🔭 I’m currently working on: eJPT, eCPPT, OSCP
+- 🌱 I’m currently learning on: INE.com, TryHackme 1%, HackTheBox, TCM-SEC: PEH Course, TCM-SEC: Win/Linux privesc courses.
 - 💬 Ask me about: Kali, Python, Java (yes, I used to build stuff in Java), GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
 - 📫 How to reach me: **Github, LinkedIn or Twitter** @codetorok
 - 😄 Pronouns: he/him
