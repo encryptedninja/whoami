@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide!
 
-<img src="https://github.com/codetorok/my_certificates/blob/master/images/thm_top44_hungary_top1percent.png">
+<img src="https://github.com/codetorok/my_certificates/blob/master/images/best_top50_thm.png">
 
 <p>From the moment I started out in Cyber Security I was focused on Penetration testing, Red Teaming; so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me if you wan't to keep in touch!</p>
 
