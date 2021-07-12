@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <p><code<whoami</code> I am currently prepping for the OSCP exam.</p>
 
-<p>Here on my profile I am sharing some walk-throughs of HackTheBox, TryHackme, Vulnhub, Overthewire and other plattforms I find interesting to help myself creating reports, deepen the techniques I learned, and also to help you if you got stuck on some room or exercise.</p>
+<p align="justify">Here on my profile I am sharing some walk-throughs of HackTheBox, TryHackme, Vulnhub, Overthewire and other plattforms I find interesting to help myself creating reports, deepen the techniques I learned, and also to help you if you got stuck on some room or exercise.</p>
 
 On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide!
 
 <img src="https://github.com/codetorok/my_certificates/blob/master/images/best_top50_thm.png">
 
-<p>From the moment I started out in Cyber Security I was focused on Penetration testing, Red Teaming; so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me if you wan't to keep in touch!</p>
+<p align="justify">From the moment I started out in Cyber Security I was focused on Penetration testing, Red Teaming; so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me if you wan't to keep in touch!</p>
 
 <p>Here are some things about me:</p>
 
