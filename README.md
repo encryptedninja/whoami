@@ -30,7 +30,7 @@ On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide
 - 🔭 I’m currently working on: OSCP
 - 🌱 I’m currently learning on: INE.com, TryHackme 1%, HackTheBox, TCM-SEC: PEH Course, TCM-SEC: Win/Linux privesc courses.
 - 💬 Ask me about: OSCP, Kali, Python, Java (yes, I used to build stuff in Java), GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
-- 📫 How to reach me: **Github, LinkedIn or Twitter** @codetorok
+- 📫 How to reach me: **Github, LinkedIn** @codetorok or [Török-Security.com](http://torok-security.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
 - 😎 See all my -> [certificates](https://github.com/codetorok/my_certificates)
