@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><code<whoami</code> I am currently prepping for the OSCP exam.</p>
+<p><code<whoami</code> I am an eJPT certified Penetration Tester, currently prepping for the PTP with INE.</p>
 
 <p align="justify">Here on my profile I am sharing some walk-throughs of HackTheBox, TryHackme, Vulnhub, Overthewire and other plattforms I find interesting to help myself creating reports, deepen the techniques I learned, and also to help you if you got stuck on some room or exercise.</p>
 
@@ -27,9 +27,9 @@ On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide
 
 <p>Here are some things about me:</p>
 
-- 🔭 I’m currently working on: OSCP
-- 🌱 I’m currently learning on: INE.com, TryHackme 1%, HackTheBox, TCM-SEC: PEH Course, TCM-SEC: Win/Linux privesc courses.
-- 💬 Ask me about: OSCP, Kali, Python, Java (yes, I used to build stuff in Java), GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
+- 🔭 I’m currently working on: PTP
+- 🌱 I’m currently learning on: INE.com, HackTheBox
+- 💬 Ask me about: INE, eJPT Kali, Python, GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
 - 📫 How to reach me: **Github, LinkedIn** @codetorok or [Török-Security.com](http://torok-security.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
