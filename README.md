@@ -33,5 +33,5 @@ On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide
 - 📫 How to reach me: **Github, LinkedIn** @codetorok or [Török-Security.com](http://torok-security.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
-- 😎 See all my -> [certificates](https://github.com/codetorok/my_certificates)
+- 😎 See all my -> [certificates](https://www.torok-security.com/qualifications)
 - ⚠️ Opinions are my own.
