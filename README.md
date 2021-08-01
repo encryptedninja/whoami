@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **codetorok/codetorok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><code<whoami</code> I am an eJPT certified Penetration Tester!</p>
+## whoami
+I am an eJPT certified Penetration Tester, currently working towards the OSCP!
 
-<p align="justify">Here on my profile I am sharing some walk-throughs of HackTheBox, TryHackme, Vulnhub, Overthewire and other plattforms I find interesting to help myself creating reports, deepen the techniques I learned, and also to help you if you got stuck on some room or exercise.</p>
+**Red Teaming:** my profile, tools and methodology I use are for Penetration Testing, Red Teaming. Stick around if you're on the same path as and feel free to ping me if you wan't to keep in touch!
 
-On TryHackMe I am in the top 50 of my country's best and in the top 1% worldwide!
-
-<img src="https://github.com/codetorok/my_certificates/blob/master/images/best_top50_thm.png">
-
-<p align="justify">From the moment I started out in Cyber Security I was focused on Penetration testing, Red Teaming; so my profile, tools and methodology I use reflect that. Stick around if you're on the same path as I post regularly! Feel free to ping me if you wan't to keep in touch!</p>
-
-<p>Here are some things about me:</p>
+* Here are some things about me:
 
 - 🔭 I’m currently working on: eCPPT and OSCP
 - 🌱 I’m currently learning on: INE.com, HackTheBox, TCM courses
 - 💬 Ask me about: INE, eJPT, Kali, Python, GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
-- 📫 How to reach me: **Github, LinkedIn** @codetorok or [Török-Security.com](http://torok-security.com)
+- 📫 How to reach me: **Github, [LinkedIn](https://www.linkedin.com/in/codetorok/)** @codetorok or [Török-Security.com](http://torok-security.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
 - 😎 See all my -> [certificates](https://www.torok-security.com/qualifications)
