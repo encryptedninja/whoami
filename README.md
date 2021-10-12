@@ -22,11 +22,11 @@ I am an eJPT certified Penetration Tester, currently working towards the OSCP!
 
 * Here are some things about me:
 
-- 🔭 I’m currently working on: eCPPT and OSCP
+- 🔭 I’m currently working on: OSCP
 - 🌱 I’m currently learning on: INE.com, HackTheBox, TCM courses
 - 💬 Ask me about: INE, eJPT, Kali, Python, GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
 - 📫 How to reach me: **Github, [LinkedIn](https://www.linkedin.com/in/codetorok/)** @codetorok or **[Török-Security.com](http://torok-security.com)**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
-- 😎 See all my -> **[certificates](https://www.torok-security.com/qualifications)**
+- 😎 See all my -> **[certificates](https://toroksecurity.com/qualifications/)**
 - ⚠️ Opinions are my own.
