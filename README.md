@@ -28,5 +28,5 @@ I am an eJPT certified Penetration Tester, currently working prepping for the OS
 - 📫 How to reach me: **Github or [LinkedIn](https://www.linkedin.com/in/codetorok/)** @codetorok
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
-- 😎 See all my -> **[links](https://linktr.ee/codetorok)**
+- 😎 Check out my -> **[LinkTree](https://linktr.ee/codetorok)**
 - ⚠️ Opinions are my own.
