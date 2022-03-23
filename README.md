@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## whoami
-I am an eJPT certified Penetration Tester, currently working prepping for the OSCP!
+I am an eJPT certified Penetration Tester, currently enrolled for the OSCP!
+(2/14/2022)
 
 **Red Teaming:** my profile, tools and methodology I use are for Penetration Testing, Red Teaming. Stick around if you're on the same path or just curious about it feel free to ping me anytime and let's keep in touch!
 
