@@ -16,18 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## whoami
-I am an eJPT certified Penetration Tester, currently enrolled for the OSCP!
-(2/14/2022)
+root
 
-**Red Teaming:** my profile, tools and methodology I use are for Penetration Testing, Red Teaming. Stick around if you're on the same path or just curious about it feel free to ping me anytime and let's keep in touch!
+**Red Teaming:** my profile, tools and methodology are for Penetration Testing, Red Teaming. Stick around if you're on the same path or just curious about it.
 
-* Here are some things about me:
-
-- 🔭 I’m currently working on: OSCP
-- 🌱 I’m currently learning on: INE.com, HackTheBox, TCM courses
-- 💬 Ask me about: INE, eJPT, Kali, Python, GIT, Beginners Path for Ethical Hackers or whatever comes to your mind.
-- 📫 How to reach me: **Github or [LinkedIn](https://www.linkedin.com/in/codetorok/)** @codetorok
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a 🏍️ addict who lived in the Caribbean 🦜 🏴‍☠️ for 16 years and loved every minute of it!
-- 😎 Check out my -> **[LinkTree](https://linktr.ee/codetorok)**
-- ⚠️ Opinions are my own.
