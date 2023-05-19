@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## whoami
 root
 
-Thisofile, tools and methodology are for Penetration Testing and Red Teaming. The public repos are to facilitate a quick lookup on configs and basic switches. Stick arouuund if you want to.
+This profile shows tools and methodologies that are for Penetration Testing and Red Teaming. The public repos here are to facilitate a quick lookup on configs and basic switches. Stick around if you want to.
 
