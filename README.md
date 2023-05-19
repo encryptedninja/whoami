@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## whoami
 root
 
-**Red Teaming:** my profile, tools and methodology are for Penetration Testing, Red Teaming. Stick around if you're on the same path or just curious about it.
+Thisofile, tools and methodology are for Penetration Testing and Red Teaming. The public repos are to facilitate a quick lookup on configs and basic switches. Stick arouuund if you want to.
 
