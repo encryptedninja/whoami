@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+# Hey there 👋
 
 whoami ➤ root
 
