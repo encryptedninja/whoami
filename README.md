@@ -1,22 +1,30 @@
-# Hi there 👋
+<h1 align="center">Hey there 👋</h1>
 
-<!--
-**encryptedninja/whoami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+whoami ➤ root
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## whoami
-root
+🛠️ This profile is a curated stash of tools, configs, switches for 
+**Penetration Testing** & **Red Teaming**, and other type of automations.
+---
 
-This profile shows tools and methodologies that are for Penetration Testing and Red Teaming. The public repos here are to facilitate a quick lookup on configs and basic switches. Stick around if you want to.
+```bash
+root@kali:~# ./repo-overview
+⚡ The public repos here aren’t just random code — they’re fast-access arsenals.
+Whether you’re looking for a --help shortcut, a quick payload tweak, or a config reference...
+this is your command center.
 
+root@kali:~# ./philosophy
+🧠 Built for clarity. Tuned for speed. No fluff.
+Just essentials — fast.
+
+root@kali:~# ./disclaimer
+🕵️‍♂️ Not going full cloak-and-dagger here — no deep dives into Red Team TTPs, infra setups, or how to make your C2 look like a weather app.
+This space is for quick-access tinkering, not a full-blown adversary simulation manual.
+📎 Think of it as Post-it notes for hackers.
+
+root@kali:~# ./farewell
+💾 Stick around. Clone what you need. Modify what you must.
+And may your shells always return. 🐚
+---
