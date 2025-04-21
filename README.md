@@ -20,7 +20,8 @@ root@kali:~# ./philosophy
 Just essentials — fast.
 
 root@kali:~# ./disclaimer
-🕵️‍♂️ Not going full cloak-and-dagger here — no deep dives into Red Team TTPs, infra setups, or how to make your C2 look like a weather app.
+🕵️‍♂️ Not going full cloak-and-dagger here — no deep dives into Red Team TTPs, infra setups,
+or how to make your C2 look like a weather app.
 This space is for quick-access tinkering, not a full-blown adversary simulation manual.
 📎 Think of it as Post-it notes for hackers.
 
