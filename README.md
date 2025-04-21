@@ -28,4 +28,3 @@ This space is for quick-access tinkering, not a full-blown adversary simulation 
 root@kali:~# ./farewell
 💾 Stick around. Clone what you need. Modify what you must.
 And may your shells always return. 🐚
----
